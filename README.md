@@ -1,6 +1,5 @@
 # Room Rental Management System
 
-## Description
 This application was developed as a university project for the "Distributed Systems" course. The application is a room rental management system that allows users to perform manager and tenant operations. The system uses the MapReduce framework for processing large volumes of data and consists of a backend implemented in Java and a mobile application in Android.
 
 ## Project Requirements
