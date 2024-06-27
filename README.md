@@ -79,8 +79,8 @@ Alternatively, from the initial screen of Android Studio, select "Open an existi
     ```bash
     java Worker1
     java Worker2
-    etc..
     ```
+    etc..
 
 ### Frontend Setup (Android Application)
 1. Open Android Studio.
