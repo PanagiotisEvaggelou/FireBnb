@@ -55,32 +55,8 @@ This application was developed as a university project for the "Distributed Syst
 
 Alternatively, from the initial screen of Android Studio, select "Open an existing Android Studio project" and open the project. Once the scripts running upon opening the project from the top menu are completed, we choose "Build -> Make Project". This compiles the code and runs automatic checks but does not produce reports or signed executables.
 
+After the application is started, for starting the server run this classes in this exact order: Master, Worker1, Worker2, Worker3, Reducer, WorkerBackup
 
-## How to Run the Application
-
-### Backend Setup
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/room-rental-management-system.git](https://github.com/PanagiotisEvaggelou/FireBnb.git
-    ```
-2. Navigate to the .java files directory:
-    ```bash
-    cd \app\src\main\java\com\example\firebnb
-    ```
-3. Compile the Java files:
-    ```bash
-    javac *.java
-    ```
-4. Run the Master server:
-    ```bash
-    java Master
-    ```
-6. In separate terminals, run the Worker servers, the Reducer and the BackupWorker server in this exact sequence:
-    ```bash
-    java Worker1
-    java Worker2
-    ```
-    etc..
 
 ### Frontend Setup (Android Application)
 1. Open Android Studio.
