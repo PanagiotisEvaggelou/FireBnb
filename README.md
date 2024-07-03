@@ -76,3 +76,6 @@ After the application is started, for starting the server run this classes in th
 
 ![Image Description](img/Screenshot6.png)
 
+
+https://github.com/PanagiotisEvaggelou/FireBnb/assets/80092725/03c39e0b-6cdb-4457-be44-862cc7fc2ba6
+
