@@ -53,10 +53,10 @@ This application was developed as a university project for the "Distributed Syst
 
 5. Download the application code from GitHub and place it in a folder, extracting it if necessary.
 
-### Frontend Setup (Android Application)
+### Frontend Setup
 Alternatively, from the initial screen of Android Studio, select "Open an existing Android Studio project" and open the project. Once the scripts running upon opening the project from the top menu are completed, we choose "Build -> Make Project". This compiles the code and runs automatic checks but does not produce reports or signed executables.
 
-### Backend Setup (Android Application)
+### Backend Setup
 After the application is started, for starting the server run this classes in this exact order: Master, Worker1, Worker2, Worker3, Reducer, WorkerBackup
 
 ### Usage
