@@ -74,15 +74,3 @@ After the application is started, for starting the server run this classes in th
     <img src="img/Screenshot6.png" alt="Screenshot 6" style="max-width:100%; height:auto;">
 </div>
 
-![Image Description](img/Screenshot1.png)
-
-![Image Description](img/Screenshot2.png)
-
-![Image Description](img/Screenshot3.png)
-
-![Image Description](img/Screenshot4.png)
-
-![Image Description](img/Screenshot5.png)
-
-![Image Description](img/Screenshot6.png)
-
