@@ -64,6 +64,17 @@ After the application is started, for starting the server run this classes in th
 - **Tenant Android Application**: Use the Android app to filter and book accommodations, as well as to rate them.
 
 ## Screenshots
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <!-- Repeat the img tag for each screenshot, adjusting the src attribute as needed -->
+    <img src="img/Screenshot1.png" alt="Screenshot 1" style="max-width:100%; height:auto; margin:10px;">
+    <img src="img/Screenshot2.png" alt="Screenshot 2" style="max-width:100%; height:auto; margin:10px;">
+    <img src="img/Screenshot3.png" alt="Screenshot 3" style="max-width:100%; height:auto; margin:10px;">
+    <img src="img/Screenshot4.png" alt="Screenshot 4" style="max-width:100%; height:auto; margin:10px;">
+    <img src="img/Screenshot5.png" alt="Screenshot 5" style="max-width:100%; height:auto; margin:10px;">
+    <img src="img/Screenshot6.png" alt="Screenshot 6" style="max-width:100%; height:auto; margin:10px;">
+</div>
+
 ![Image Description](img/Screenshot1.png)
 
 ![Image Description](img/Screenshot2.png)
