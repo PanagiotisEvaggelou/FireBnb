@@ -65,14 +65,13 @@ After the application is started, for starting the server run this classes in th
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <!-- Repeat the img tag for each screenshot, adjusting the src attribute as needed -->
-    <img src="img/Screenshot1.png" alt="Screenshot 1" style="max-width:100%; height:auto; margin:10px;">
-    <img src="img/Screenshot2.png" alt="Screenshot 2" style="max-width:100%; height:auto; margin:10px;">
-    <img src="img/Screenshot3.png" alt="Screenshot 3" style="max-width:100%; height:auto; margin:10px;">
-    <img src="img/Screenshot4.png" alt="Screenshot 4" style="max-width:100%; height:auto; margin:10px;">
-    <img src="img/Screenshot5.png" alt="Screenshot 5" style="max-width:100%; height:auto; margin:10px;">
-    <img src="img/Screenshot6.png" alt="Screenshot 6" style="max-width:100%; height:auto; margin:10px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 100px; justify-items: center;">
+    <img src="img/Screenshot1.png" alt="Screenshot 1" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot2.png" alt="Screenshot 2" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot3.png" alt="Screenshot 3" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot4.png" alt="Screenshot 4" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot5.png" alt="Screenshot 5" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot6.png" alt="Screenshot 6" style="max-width:100%; height:auto;">
 </div>
 
 ![Image Description](img/Screenshot1.png)
