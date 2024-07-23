@@ -41,6 +41,8 @@ This application was developed as a university project for the "Distributed Syst
 - Communication between the Application and Master must use TCP sockets.
 - Implement asynchronous communication to keep the application interactive.
 
+![Image Description](img/Design.png)
+
 ## Setting Up Android Studio on Windows Environment
 
 1. Install Android Studio if necessary (version 2.1.13 or newer is recommended). If you have a version older than 2.3.0, you will need an internet connection because Android Studio will automatically download the required software.
